@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './Containers/index.css';
 import 'tachyons';
-import Mainapp from './Components/Mainapp';
+import Mainapp from './Containers/Mainapp';
 // import App from './Components/App';
 // import Apploop from './Components/Apploop';
 import registerServiceWorker from './registerServiceWorker';

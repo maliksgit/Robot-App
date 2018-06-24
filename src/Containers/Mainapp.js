@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import Search from './Search';
+import Search from '../Components/Search';
 // import {Robots} from './Robots'; 
-import Apploop from './Apploop';
-import Scroll from './Scroll';
+import Apploop from '../Components/Apploop';
+import Scroll from '../Components/Scroll';
 class Mainapp extends Component{
 	constructor(){
 		super()
